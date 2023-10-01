@@ -6,7 +6,9 @@ Entrance test for Nexle
 
 Flutter version: 3.13.3
 
-Run: 
-=> flutter pub get
-=> dart run build_runner build
+Run:
+
+=> `flutter pub get`
+
+=> `dart run build_runner build`
 
