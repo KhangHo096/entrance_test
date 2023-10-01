@@ -4,7 +4,7 @@ Entrance test for Nexle
 
 ## Getting Started
 
-Flutter version: 3.13.3
+Flutter version: `3.13.3`
 
 Run:
 
